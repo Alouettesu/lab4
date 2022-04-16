@@ -74,7 +74,7 @@
         </option>
         <option>
           <name>OGChipSelectEditMenu</name>
-          <state>STM32L152RC	ST STM32L152RC</state>
+          <state>STM32L152RB	ST STM32L152RB</state>
         </option>
         <option>
           <name>GenLowLevelInterface</name>
@@ -120,7 +120,7 @@
         </option>
         <option>
           <name>GFPUDeviceSlave</name>
-          <state>STM32L152RC	ST STM32L152RC</state>
+          <state>STM32L152RB	ST STM32L152RB</state>
         </option>
         <option>
           <name>FPU2</name>
@@ -986,7 +986,7 @@
         </option>
         <option>
           <name>IlinkTrustzoneImportLibraryOut</name>
-          <state></state>
+          <state>STMTIM_import_lib.o</state>
         </option>
         <option>
           <name>OILinkExtraOption</name>

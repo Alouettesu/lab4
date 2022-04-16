@@ -69,6 +69,7 @@ void Error_Handler(void);
 #define SEG17_GPIO_Port GPIOC
 #define B1_Pin GPIO_PIN_0
 #define B1_GPIO_Port GPIOA
+#define B1_EXTI_IRQn EXTI0_IRQn
 #define SEG0_Pin GPIO_PIN_1
 #define SEG0_GPIO_Port GPIOA
 #define SEG1_Pin GPIO_PIN_2
